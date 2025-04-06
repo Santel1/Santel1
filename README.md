@@ -19,19 +19,20 @@ I am a Junior Frontend Developer with experience in creating intuitive and effic
 <table  align="center">
   <tr>
     
-        🇺🇦 Ukrainian - Native
+      Ukrainian - Native
         
   </tr>
 
   <tr>
     
-        🇬🇧 English - Intermediate
+      English - Intermediate
         
   </tr>
   
   <tr>
     
-        GE German - Intermediate
+     
+     German - Intermediate
         
   </tr>
 </table>
