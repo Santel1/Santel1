@@ -25,14 +25,14 @@ I am a Junior Frontend Developer with experience in creating intuitive and effic
 
   <tr>
     
-      English - Intermediate
+      English - Upper-Intermediate
         
   </tr>
   
   <tr>
     
      
-     German - Intermediate
+     German - Upper-Intermediate
         
   </tr>
 </table>
